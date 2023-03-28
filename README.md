@@ -1,2 +1,2 @@
 # Banco-de-Dados
-Trabalhos
+Trabalhos da área de banco de dados
